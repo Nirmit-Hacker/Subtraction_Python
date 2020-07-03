@@ -9,4 +9,4 @@ num2=float(input("Enter the value of num2 : "))
 # Main Program(equation)
 sub=num1-num2
 
-print("The sub of", num1," and ", num2," is ", sub)
+print("The Subtrtraction of", num1," and ", num2," is ", sub)
